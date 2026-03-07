@@ -1,5 +1,25 @@
+# Terraform
 **/.terraform/*
 *.tfstate
 *.tfstate.*
 .terraform.lock.hcl
+
+# macOS
 .DS_Store
+**/.DS_Store
+
+# Finder
+.AppleDouble
+.LSOverride
+
+# Iconos de carpeta
+Icon?
+
+# Archivos temporales
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
